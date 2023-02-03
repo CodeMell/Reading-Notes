@@ -7,7 +7,9 @@
   - [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
   - [Mozilla HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
   - [Mozilla HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-- 
+- What wireframe are and idea to plan out sites
+- Refresher on html
+- what semanics are
 
 ## Things I want to know more about
 - 
