@@ -8,5 +8,3 @@
 
 ## Things I want to know more about
 - Working with multiple repositories
-
-[back to 102](/102/README.md)
