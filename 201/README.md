@@ -1,5 +1,5 @@
 # Reading Notes for 201
-- [Class 1 - Setup Developer Toolbelt1](Class01/Setup-Developer-Toolbelt.md)
+- [Class 1 - Setup Developer Toolbelt1](Class01/class-01.md)
 - [Class 2]()
 - [Class 3]()
 - [Class 4]()
