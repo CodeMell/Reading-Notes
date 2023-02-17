@@ -1,9 +1,9 @@
 # Reading Notes for 201
 - [Class 1 - Setup Developer Toolbelt1](Class01/class-01.md)
-- [Class 2]()
-- [Class 3]()
-- [Class 4]()
-- [Class 5]()
+- [Class 2 - Introduction To Web Development](Class02/class-02.md)
+- [Class 3 - Lists, The Box Model, and Loops](Class03/class-03.md)
+- [Class 4 - Links, Layouts, and Functions](Class04/class-04.md)
+- [Class 5 - Images, Color, Text, and More Work With Functions](Class05/class-05.md)
 - [Class 6]()
 - [Class 7]()
 - [Class 8]()
