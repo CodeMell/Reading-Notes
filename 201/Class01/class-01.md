@@ -7,10 +7,11 @@
 - [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 1. 
-2. 
-3. 
-4. 
-5. 
+2. The browser analyzes the html for links(css)& scripts(javasvript). it send a requst to the server to find any css & javascript that are conneted to the html.
+Then the browser generates the html and css, and compiles and executes analyzed javascript.
+3. use a seach engine and do a image seach
+4. stirng are make with text in quotes number don't have quotes.
+5. Variables are containers that store values. Their  are necessary to do anything in programming like pop-ups and image gallery.
 
 
 ### [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/)
