@@ -7,15 +7,42 @@
 - [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 1. 
+2. 
+3. 
+4. 
+5. 
+
 
 ### [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/)
 - [ Getting Started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 - [HTML Document Structure.](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 - [Metadata in HTML.](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+
+
 ### Miscellaneous
 - [How to start to design a Website](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Thinking_before_coding)
+
+1. 
+2. 
+
+
 - [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+
+1. 
+2. 
+
+
 - [What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+
+1. 
+2. 
  
 
 ## Things I want to know more about
