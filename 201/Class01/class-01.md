@@ -20,8 +20,8 @@ Then the browser generates the html and css, and compiles and executes analyzed 
 - [Metadata in HTML.](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
 
 1. html attributes are modifier of  html element with in opening tags.
-2.  The anatomy of an html element is opening tag, content, closing tag. Opening tag is 
-3. 
+2.  The anatomy of an html element is opening tag, content, closing tag. Opening tag marks the start of a element while the closing tag marks the end. The content is the ... content of the element.
+3. The article tags and section tags
 4. 
 5. 
 6. 
