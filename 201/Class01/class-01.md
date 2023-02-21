@@ -39,9 +39,9 @@ Then the browser generates the html and css, and compiles and executes analyzed 
 
 - [What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
-1. 
-2. 
+1. JavaScript can be used for making web games and user login.
+2. Adding JavaScript to an HTML document by using a script tag.
  
 
 ## Things I want to know more about
-- 
+- making a web sever
