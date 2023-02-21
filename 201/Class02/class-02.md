@@ -1,4 +1,6 @@
 # Introduction To Web Development
+
+## Things I leaned
   - ### [HTML Text Fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals) [HTML Advanced Text Formatting](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
    
     1.  Using semantic tags in html help determine the importance and context of a page
