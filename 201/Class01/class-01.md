@@ -30,15 +30,12 @@ Then the browser generates the html and css, and compiles and executes analyzed 
 ### Miscellaneous
 - [How to start to design a Website](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Thinking_before_coding)
 
-1. 
-2. 
+    - the most important question and first step when designing a Website is "What exactly do I want to accomplish?"
 
 
 - [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
-1. 
-2. 
-
+    - Using semantic tags in html help determine the importance and context of a page. That why h1 elements should be used then faking semantic with span elements.
 
 - [What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
