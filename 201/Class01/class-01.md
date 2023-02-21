@@ -21,10 +21,10 @@ Then the browser generates the html and css, and compiles and executes analyzed 
 
 1. html attributes are modifier of  html element with in opening tags.
 2.  The anatomy of an html element is opening tag, content, closing tag. Opening tag marks the start of a element while the closing tag marks the end. The content is the ... content of the element.
-3. The article tags and section tags
-4. 
-5. 
-6. 
+3. The article tags encloses a block of related content that makes sense on its own without the rest of the page and while section tags  grouping together a single part of the page that constitutes one single piece.
+4.  A typical website includes a header, nav bar, main, sidebar, and a footer.
+5. Metadata influence Search engine optimization by useing keywords relating to the content of the a page.
+6. The meta tag used to specify character set, page description, keywords, author of the document, and viewport settings
 
 
 ### Miscellaneous
