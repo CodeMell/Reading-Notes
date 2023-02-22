@@ -1,1 +1,1 @@
-# Lists, The Box Model, and Loops
+# HTML Lists, Control Flow with JS, and the CSS Box Model
