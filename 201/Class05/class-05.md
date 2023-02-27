@@ -36,7 +36,8 @@
     font-style used to turn italic text on or off.
 
 5. Describe two ways you could add spacing around the characters displayed in an h1 element.
-
+    Use letter-spacing for how space out each letter should be
+    Use word-spacing for how space out each word should be
 
 
 ## Things I want to know more about
