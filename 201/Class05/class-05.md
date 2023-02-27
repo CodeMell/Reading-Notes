@@ -41,3 +41,4 @@
 
 
 ## Things I want to know more about
+WebM support
