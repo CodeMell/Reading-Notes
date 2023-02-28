@@ -4,7 +4,7 @@
 - [Class 3 - Lists, The Box Model, and Loops](Class03/class-03.md)
 - [Class 4 - Links, Layouts, and Functions](Class04/class-04.md)
 - [Class 5 - Images, Color, Text, and More Work With Functions](Class05/class-05.md)
-- [Class 6]()
+- [Class 6 - Problem Domain, Objects, and the DOM](Class06/class-06.md)
 - [Class 7]()
 - [Class 8]()
 - [Class 9]()
