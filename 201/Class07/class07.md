@@ -8,9 +8,12 @@
 [HTML Table Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
 
 1. Why should tables not be used for page layouts?
+    Tables are used for tabular data. 
 
 2. List and describe 3 different semantic HTML elements used in an HTML <table>.
-
+<th> table headers 
+<td> smallest container inside a table is a table cell
+<tr> make rows in table
 
 [Introducing Constructors](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics#introducing_constructors)
 
