@@ -25,10 +25,13 @@
 
 2. How does the term this differ when used in an object literal versus when used in a constructor?
 
+    constructor for oject being made while object literal being defined.
+
 
 [Object Prototypes Using A Constructor](https://ui.dev/beginners-guide-to-javascript-prototype)
 
 1. Explain prototypes and inheritance via an analogy from your previous work experience.
+
 
 
 
