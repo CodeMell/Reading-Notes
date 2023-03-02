@@ -32,7 +32,7 @@
 
 1. Explain prototypes and inheritance via an analogy from your previous work experience.
 
-
+prototypes are like a factory and inheritance are tools from that factory.
 
 
 ## Bookmark and Review
