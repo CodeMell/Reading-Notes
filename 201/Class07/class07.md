@@ -3,6 +3,7 @@
 
 1. Explain why we need domain modeling.
 
+    It describes the various entities, their attributes and behaviors, as well as the constraints that govern the problem domain. A domain model that's articulated well can verify and validate the understanding of a specific problem among various stakeholders. 
 
 [HTML Table Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
 
