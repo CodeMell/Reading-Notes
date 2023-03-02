@@ -18,6 +18,7 @@
 [Introducing Constructors](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics#introducing_constructors)
 
 1. What is a constructor and what are some advantages to using it?
+ A constructor is just a function called using the new keyword.
 
 2. How does the term this differ when used in an object literal versus when used in a constructor?
 
