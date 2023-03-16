@@ -24,7 +24,6 @@
     grid item is the children (i.e. direct descendants) of the grid container
      grid line is the dividing lines that make up the structure of the grid
 
-
 [Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 
 1. Besides making a site visually appealing across different screen sizes, why should developers make images responsive?
