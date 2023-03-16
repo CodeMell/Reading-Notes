@@ -5,13 +5,13 @@
 - It got us evolve the way we express ourselves and share info
 
 2. Describe the use of the src and controls attributes in the <video> element.
- - src contains a path to the video and controls control video and audio playback.
+- src contains a path to the video and controls control video and audio playback.
 
 3. Why is it important to have fallback content inside the <video> element?
 - To provide a fallback for older browsers
 
 4. Write a very short story where <audio> and <video> are characters.
- -  <audio> and <video> are siblings. They work together to make the world a better place.
+-  <audio> and <video> are siblings. They work together to make the world a better place.
 
 
 [A Complete Guide To Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
