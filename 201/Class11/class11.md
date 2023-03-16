@@ -11,13 +11,13 @@
 - To provide a fallback for older browsers
 
 4. Write a very short story where <audio> and <video> are characters.
- - 
+ -  <audio> and <video> are siblings. They work together to make the world a better place.
 
 
 [A Complete Guide To Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 1. How does Grid layout differ from Flex?
-- Its one-directional flow has different use cases
+- Its one-directional
 
 2. Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences.
 - Grid container is a element on which display: grid is applied
@@ -42,3 +42,4 @@ sizes defines a set of media conditions (e.g. screen widths) and indicates what 
 [Other Embedding Technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)
 
 ## Things I want to know more about
+- Wed data base
