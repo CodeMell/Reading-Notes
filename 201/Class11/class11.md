@@ -21,20 +21,20 @@
 
 2. Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences.
 - Grid container is a element on which display: grid is applied
- grid item is the children (i.e. direct descendants) of the grid container
-  grid line is the dividing lines that make up the structure of the grid
+ Grid item is the children (i.e. direct descendants) of the grid container
+  Grid line is the dividing lines that make up the structure of the grid
 
 [Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 
 1. Besides making a site visually appealing across different screen sizes, why should developers make images responsive?
-- help with the art direction of a site
+- help with the art direction and useable of a site 
 
 2. Define the following <img> attributes srcset and sizes. Write an example of how they are used.
 - srcset defines the set of images we will allow the browser to choose between, and what size each image is
 sizes defines a set of media conditions (e.g. screen widths) and indicates what image size would be best to choose
 
 3. How is srcset more helpful for responsive images than CSS or JavaScript?
-- 
+- still work with out css or javaScript
 
 
 ## Bookmark and Review
