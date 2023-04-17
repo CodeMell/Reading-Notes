@@ -27,7 +27,7 @@
     
 3. What is the flow of props?
 
-    - uni-directional flow
+    - uni-directional flow (top-bottom)
 
 
 ## Bookmark and Review
