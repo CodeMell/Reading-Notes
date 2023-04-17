@@ -24,11 +24,12 @@
     
 2. How are props used in React?
 
-    - 
+    - Define an attribute and its value(data), then pass it to child component(s) by using Props, and then render the Props Data
+
     
 3. What is the flow of props?
 
-    - 
+    - uni-directional flow
 
 
 ## Bookmark and Review
