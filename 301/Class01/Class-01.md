@@ -24,7 +24,7 @@
     
 2. How are props used in React?
 
-    - Define an attribute and its value(data), then pass it to child component(s) by using Props, and then render the Props Data
+    - Define an attribute and its value(data), then pass it to child components by using Props, and then render the Props Data
 
     
 3. What is the flow of props?
@@ -33,10 +33,10 @@
 
 
 ## Bookmark and Review
-[React Tutorial through ‘Passing Data Through Props’](https://reactjs.org/tutorial/tutorial.html)
-[React Docs - Hello world](https://reactjs.org/docs/hello-world.html)
-[React Docs - Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
-[React Docs - Rendering elements](https://reactjs.org/docs/rendering-elements.html)
-[React Docs - Components and props](https://reactjs.org/docs/components-and-props.html)
+- [React Tutorial through ‘Passing Data Through Props’](https://reactjs.org/tutorial/tutorial.html)
+- [React Docs - Hello world](https://reactjs.org/docs/hello-world.html)
+- [React Docs - Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
+- [React Docs - Rendering elements](https://reactjs.org/docs/rendering-elements.html)
+- [React Docs - Components and props](https://reactjs.org/docs/components-and-props.html)
 
 ## Things I want to know more about
