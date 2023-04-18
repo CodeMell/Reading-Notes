@@ -1,6 +1,6 @@
 # Reading Notes for 301
 - [Class1 - Introduction to React and Components](Class01/Class-01.md)
-- []()
+- [Class2 - State and Props](Class02/Class-02.md)
 - []()
 - []()
 - []()
