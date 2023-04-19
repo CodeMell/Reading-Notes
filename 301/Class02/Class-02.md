@@ -1,7 +1,7 @@
 # State and Props
 [React lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
 1. Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
-    - 
+    - render happens first
 
 2. What is the very first thing to happen in the lifecycle of React?
     - 
