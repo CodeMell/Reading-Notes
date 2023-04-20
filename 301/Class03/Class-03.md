@@ -55,16 +55,16 @@
 
 [How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
 1. In the video, what is the first step that the developer does to pass functions between components?
-    - 
+    - He creates a function in the parent element that controls the state.
 
 2. In your own words, what does the increment function do?
-    - 
+    - It maps over his array of people objects in the state and increments the count on the the person object with the name that was passed into function.
 
 3. How can you pass a method from a parent component into a child component?
-    - 
+    - pass it to the child element as a prop.
 
 4. How does the child component invoke a method that was passed to it from a parent component?
-    - 
+    - calling the method that was passed to it as a prop
 
 ## Bookmark and Review
 - [React Tutorial through ‘Declaring a Winner’](https://reactjs.org/tutorial/tutorial.html)
