@@ -1,7 +1,7 @@
 # Reading Notes for 301
-- [Class1 - Introduction to React and Components](Class01/Class-01.md)
-- [Class2 - State and Props](Class02/Class-02.md)
-- []()
+- [Class 1 - Introduction to React and Components](Class01/Class-01.md)
+- [Class 2 - State and Props](Class02/Class-02.md)
+- [Class 3 - Passing Functions as Props](Class03/Class-03.md)
 - []()
 - []()
 - []()
