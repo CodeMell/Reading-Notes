@@ -2,7 +2,7 @@
 - [Class 1 - Introduction to React and Components](Class01/Class-01.md)
 - [Class 2 - State and Props](Class02/Class-02.md)
 - [Class 3 - Passing Functions as Props](Class03/Class-03.md)
-- []()
+- [Class 4 - React and Forms](Class04/Class-04.md)
 - []()
 - []()
 - []()
