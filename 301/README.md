@@ -3,7 +3,7 @@
 - [Class 2 - State and Props](Class02/Class-02.md)
 - [Class 3 - Passing Functions as Props](Class03/Class-03.md)
 - [Class 4 - React and Forms](Class04/Class-04.md)
-- []()
+- [Class 5 - Putting it all together](Class05/Class-05.md)
 - []()
 - []()
 - []()
