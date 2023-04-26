@@ -21,12 +21,21 @@
 
 [Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK)
 1. What is a “higher-order function”?
-    - functions that operate on other functions, either by taking them as arguments or by returning them
+    - Functions that operate on other functions, either by taking them as arguments or by returning them
 
 2. Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
-    - 
+    
+            function greaterThan(n) {
+            return m => m > n;
+            }
+            let greaterThan10 = greaterThan(10);
+            console.log(greaterThan10(11));
+            // → true
+    -The function is comparing the variables and anything that is greater than n will be true and less than n will be false
+
+    - line two of the function is returning m as it being greater than n
 
 3. Explain how either map or reduce operates, with regards to higher-order functions.
-    - 
+    - Reduce computes a single value from an array. it builds a value by repeatedly taking a single element from the array and combining it with the current value when it comes to higher order operations
 
 ## Things I want to know more about
