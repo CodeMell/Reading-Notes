@@ -8,18 +8,19 @@
     - 
 
 3. What is the HTTP protocol that Fielding and his friends created?
-    - 
+    - Hypertext Transfer Protocol
 
 4. What does a GET do?
-    - 
+    - retrieve information
 
 5. What does a POST do?
-    - 
+    -  add something to another system
+
 6. What does PUT do?
-    - 
+    - replace something in another system
 
 7. What does PATCH do?
-    - 
+    - do a partial update
 
 ## API Keys
 
