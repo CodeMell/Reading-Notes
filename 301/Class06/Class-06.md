@@ -30,14 +30,14 @@
 
 [Weather Bit API](https://www.weatherbit.io/)
 1. Did you get your API key?
-    - yes
+    - no
     
 [Yelp API Docs](https://www.yelp.com/developers/documentation/v3/business_search)
 1. Did you get your API key?
-    - yes
+    - no
     
 [The Movie DB API Docs](https://developers.themoviedb.org/3/getting-started/introduction)
 1. Did you get your API key?
-    - yes
+    - no
     
 ## Things I want to know more about
