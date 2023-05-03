@@ -6,7 +6,7 @@
 - [Class 5 - Putting it all together](Class05/Class-05.md)
 - [Class 6 - REST](Class06/Class-06.md)
 - [Class 7 - NODE.JS](Class07/Class-07.md)
-- []()
+- [Class 8 - APIs]()
 - []()
 - []()
 - []()
