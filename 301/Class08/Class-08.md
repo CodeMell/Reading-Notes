@@ -3,13 +3,14 @@
 [API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
 1. What does REST stand for?
-    - 
+    - Roy Fielding proposed Representational State Transfer
 
 2. REST APIs are designed around a ____.
-    - 
+    - resources (any kind of object, data, or service that can be accessed by the client)
 
 3. What is an identifier of a resource? Give an example.
-    - 
+    -  URI that uniquely identifies that resource
+    example: https://adventure-works.com/orders/1
 
 4. What are the most common HTTP verbs?
     - 
