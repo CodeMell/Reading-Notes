@@ -8,13 +8,14 @@
     - The first fundamental concept we learn when we want to understand functional programming.It returns the same result if given the same arguments (it is also referred as deterministic).It also does not cause any observable side effects
 
 3. What are the benefits of a pure function?
-    - 
+    - Given a parameter A → expect the function to return value B
+Given a parameter C → expect the function to return value D
 
 4. What is immutability?
-    - 
+    - data state cannot change after it’s created
     
 5. What is Referential transparency?
-    - 
+    -  a function consistently yields the same result for the same input
 
 [Node JS Tutorial for Beginners #6 - Modules and require()](https://www.youtube.com/watch?v=xHLd36QoS4k)
 
