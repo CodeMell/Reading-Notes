@@ -23,12 +23,12 @@ Given a parameter C → expect the function to return value D
     - a JavaScript library/file that you can import into other code using Node's require() function
 
 2. What does the word ‘require’ do?
-    - return exports object
+    -  Allows you to use functions anywhere within the application
  
 3. How do we bring another module into the file the we are working in?
-    - 
+    - Use module.exports = whatever you want to be available
 
 4. What do we have to do to make a module available?
-    - 
+    - Set the require equal to a variable so it returns the module.export value
 
 ## Things I want to know more about
