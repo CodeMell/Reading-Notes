@@ -7,7 +7,7 @@
 - [Class 6 - REST](Class06/Class-06.md)
 - [Class 7 - NODE.JS](Class07/Class-07.md)
 - [Class 8 - APIs](Class08/Class-08.md)
-- []()
+- [Class 9 - Functional Programming](Class09/Class-09.md)
 - []()
 - []()
 - []()
