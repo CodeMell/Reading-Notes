@@ -20,10 +20,10 @@ Given a parameter C → expect the function to return value D
 [Node JS Tutorial for Beginners #6 - Modules and require()](https://www.youtube.com/watch?v=xHLd36QoS4k)
 
 1. What is a module?
-    - 
+    - a JavaScript library/file that you can import into other code using Node's require() function
 
 2. What does the word ‘require’ do?
-    - 
+    - return exports object
  
 3. How do we bring another module into the file the we are working in?
     - 
