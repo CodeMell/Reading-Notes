@@ -38,6 +38,6 @@
     
 [The Movie DB API Docs](https://developers.themoviedb.org/3/getting-started/introduction)
 1. Did you get your API key?
-    - no
+    - yes
     
 ## Things I want to know more about
