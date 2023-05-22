@@ -6,7 +6,7 @@
     - a Manage function invocation
 
 2. How many ‘calls’ can happen at once?
-    - 
+    - 1
 
 3. What does LIFO mean?
     - Last In, First Out data structure
