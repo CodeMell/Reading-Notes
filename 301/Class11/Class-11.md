@@ -38,28 +38,28 @@ Fill in the chart below with five differences between SQL and NoSQL databases:
     - Structured Query Language
 
 2. What is a relational database?
-    - 
+    - database that organizes data into tables consisting of rows and columns, with relationships between the tables
 
 3. What type of structure does a relational database work with?
-    - 
+    - a structured, table-based format. Each table has a fixed structure with a set number of columns (fields) that define the data to be stored, and each row in the table represents a single record.
 
 4. What is a ‘schema’?
-    - 
+    -  structure of a relational database 
 
 5. What is a NoSQL database?
     - an approach to database design that enables the storage and querying of data outside the traditional structures found in relational databases
 
 6. How does it work?
-    - 
+    - storing data in a format that is either key-value pairs, wide-column stores, a graph format or document-oriented
 
 7. What is inside of a MongoDB database?
-    - 
+    - data is stored in BSON format 
 
 8. Which is more flexible - SQL or MongoDB? and why.
-    - 
+    - MongoDB since its NoSQL
 
 9. What is the disadvantage of a NoSQL database?
-    - 
+    - Data may not be immediately consistent
     
 
 ## Bookmark and Review
