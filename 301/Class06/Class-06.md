@@ -32,7 +32,8 @@
 1. Did you get your API key?
     - yes
     
-[Yelp API Docs](https://www.yelp.com/developers/documentation/v3/business_search)
+[Yelp API Docs](https://www.yelp.co
+m/developers/documentation/v3/business_search)
 1. Did you get your API key?
     - no
     
