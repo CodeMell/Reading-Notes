@@ -10,7 +10,7 @@
 - [Class 9 - Functional Programming](Class09/Class-09.md)
 - [Class 10 - In memory storage](Class10/Class-10.md)
 - [Class 11 - MongoDB and Mongoose](Class11/Class-11.md)
-- [Class 12 -]()
+- [Class 12 - CRUD](Class12/Class-12.md)
 - [Class 13 -]()
 - [Class 14 -]()
 - [Class 15 -]()
