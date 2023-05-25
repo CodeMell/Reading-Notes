@@ -4,10 +4,13 @@
 
 1. In your own words, describe what each group of status code represents:
 
-    - 100’s =
-    - 200’s =
-    - 300’s =
-    - 400’s =
+    - 100’s = tell the client that the header part of the request has been received and the server will try to comply with a transmission demand of the client
+
+    - 200’s = tell the client that its request was accepted
+
+    - 300’s = tell the client that the resource they are requesting isn’t available at the expected location anymore
+
+    - 400’s = about invalid requests a client sent to a server
     - 500’s =
 
 2. What is a status code 202?
