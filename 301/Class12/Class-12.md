@@ -35,24 +35,24 @@
     - 
 
 2. What is middleware?
-    - 
+    - software and cloud services that provide common services and capabilities to applications and help developers and operators build and deploy applications more efficiently.
 
 3. What does app.use(express.json()) do?
-    - 
+    - It parses incoming requests with JSON payloads and puts the parsed data in req.body.
 
 4. What does the /:id mean in a route?
-    - 
+    -  a unique identifier assigned to every order that is protected by Route Package Protection.
 
 5. What is the difference between PUT and PATCH?
-    - 
+    - PUT  is used to set an entity's information completely. PUTting is similar to POSTing, except that it will overwrite the entity if already exists or create it otherwise. You could use a PUT to write a user to your database that may already be in it. While PATCH is used to update an existing entity with new information. You can't patch an entity that doesn't exist. 
 
 6. How do you make a default value in a schema?
     - 
 
 7. What does a 500 error status code mean?
-    - 
+    -  the server encountered an unexpected condition that prevented it from fulfilling the request.
 
 8. What is the difference between a status 200 and a status 201?
-    - 
+    - Status 201 mean the request has succeeded and has led to the creation of a resource. Status 200 mean the code that is delivered when a web page or resource acts exactly the way it's expected to.
 
     ## Things I want to know more about
