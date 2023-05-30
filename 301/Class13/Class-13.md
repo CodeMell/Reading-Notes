@@ -14,6 +14,6 @@
     - CRUD  against backend databases
 
 2. If you had to describe the process of creating a RESTful API in 5 steps, what would they be?
-    - 
+    -  
 
 ## Things I want to know more about
