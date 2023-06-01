@@ -41,10 +41,10 @@
 ## [Authorization and Authentication flows](https://auth0.com/docs/flows)
 
 1. What is the difference between authorization and authentication?
-    - 
+    - authorization determines whether users are who they claim to be and authentication determines what users can and cannot access
 
 2. What is Authorization Code Flow?
-    - 
+    - involves exchanging an authorization code for a token
 
 3. What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)?
     - 
