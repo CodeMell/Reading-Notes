@@ -47,19 +47,19 @@
     - involves exchanging an authorization code for a token
 
 3. What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)?
-    - 
+    - an OpenId Connect flow specifically designed to authenticate native or mobile application users
 
 4. What is Implicit Flow with Form Post?
-    - 
+    -  a browser only flow that get a access token after the Resource Owner gave access
 
 5. What is Client Credentials Flow?
-    - 
+    -  used when a client application needs to authenticate itself and directly access resources on behalf of itself, rather than a specific user
 
 6. What is Device Authorization Flow?
-    - 
+    - used for devices that have limited input capabilities and cannot interactively authenticate like a regular web application
 
 7. What is Resource Owner Password Flow?
-    - 
+    - an OAuth flow where the client requests the user's credentials (username and password) and exchanges them directly with the authorization server for an access token, typically used for trusted applications
 
 
 ## Bookmark and Review
