@@ -1,7 +1,15 @@
 # all prep notes
 
 ## Prep: The Growth Mindset
-
+A growth mindset is ones ability to overcome challenges throught hard work and focus.
+1. Challenges
+   - Have some thing you really want to improve
+   - Take what comes head on
+2. Obstacles
+    - anything that can get u off track
+4. Effort
+    - What u need to put in to reach your goal
+    
 ## Prep: Introduction to SQL
 ![Alt text](<Screenshot 2023-07-05 204022.jpg>)
 ![Alt text](<Screenshot 2023-07-05 204432.jpg>)
