@@ -15,7 +15,7 @@
 
 ## [Art of Readme](https://github.com/hackergrrl/art-of-readme) and [ReadMe Best Practices](https://github.com/jehna/readme-best-practices)
 
-reasons a quality README is just as important as quality code:
+## reasons a quality README is just as important as quality code:
 
 - Documentation and clarity: A README provides clear and concise documentation about the project. It helps other developers, collaborators, or even future you to understand the purpose, functionality, and usage of the codebase. It outlines the project's structure, dependencies, and any specific instructions for setup, configuration, or deployment. Clear documentation saves time and reduces confusion when working with or maintaining the code.
 
