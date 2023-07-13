@@ -5,7 +5,6 @@
 
 [Properties](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/properties)
 
-What’s the difference between a static and an instance constructor?
 The main difference between a static constructor and an instance constructor in C# is their purpose and behavior:
 
 Purpose:
