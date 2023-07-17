@@ -20,6 +20,8 @@
 
 - A class or struct can implement multiple interfaces while also inheriting from a base class.
 
+interfaces provide a way to define a common set of behaviors that different classes or structs can implement, enabling code reusability and flexibility in C# programming.
+
 [Back to Basics](https://simpleprogrammer.com/back-to-basics-what-is-an-interface/)
 
 - The purpose of an interface is to separate how something is used from how it is implemented. It allows code to work with different implementations of a set of responsibilities without specifically handling each implementation.
@@ -38,6 +40,8 @@
 
 - The article concludes by stating that a language-supported mechanism is needed to easily replace implementations of concrete classes at runtime, rather than relying on interfaces as a trick to achieve this.
 
+emphasizes using interfaces purposefully, avoiding excessive and unnecessary interface usage, and considering alternative approaches to address testing and dependency injection challenges.
+
 [Interfaces #2](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/interface)
 
 - An interface defines a contract that any class or struct implementing it must adhere to.
@@ -53,3 +57,5 @@
 - Explicit interface implementation is possible, where members of an interface are implemented explicitly and can only be accessed through an instance of the interface.
 
 - Interfaces are used to achieve abstraction and decoupling in code, allowing for flexibility and code reuse.
+
+interfaces in C# provide a way to define contracts and ensure consistent behavior among different classes or structs, promoting modularity and flexibility in code design.
