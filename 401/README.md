@@ -7,7 +7,7 @@
 - [Class 5 - ](Class05/Class-05.md)
 - [Class 6 - Object Oriented Principles](Class06/Class-06.md)
 - [Class 7 - Interfaces](Class07/Class-07.md)
-- [Class 8 - ](Class08/Class-08.md)
+- [Class 8 - Collections & Enums](Class08/Class-08.md)
 - [Class 9 - ](Class09/Class-09.md)
 - [Class 10 - ](Class10/Class-10.md)
 - [Class 11 - ](Class11/Class-11.md)
