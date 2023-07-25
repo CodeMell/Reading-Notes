@@ -10,7 +10,7 @@
 - [Class 8 - Collections & Enums](Class08/Class-08.md)
 - [Class 9 - LINQ & Delegates](Class09/Class-09.md)
 - [Class 10 - Stacks and Queues](Class10/Class-10.md)
-- [Class 11 - ](Class11/Class-11.md)
+- [Class 11 - Introduction to Databases and ERDs](Class11/Class-11.md)
 - [Class 12 - ](Class12/Class-12.md)
 - [Class 13 - ](Class13/Class-13.md)
 - [Class 14 - ](Class14/Class-14.md)
