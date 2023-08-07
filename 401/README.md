@@ -12,6 +12,6 @@
 - [Class 10 - Stacks and Queues](Class10/Class-10.md)
 - [Class 11 - Introduction to Databases and ERDs](Class11/Class-11.md)
 - [Class 12 - Entity Framework and APIs](Class12/Class-12.md)
-- [Class 13 - ](Class13/Class-13.md)
-- [Class 14 - ](Class14/Class-14.md)
+- [Class 13 - Dependency Injection & Repository Design Pattern](Class13/Class-13.md)
+- [Class 14 - Navigation Properties and Routing](Class14/Class-14.md)
 - [Class 15 - ](Class15/Class-15.md)
