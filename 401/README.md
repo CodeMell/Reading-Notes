@@ -15,3 +15,7 @@
 - [Class 13 - Dependency Injection & Repository Design Pattern](Class13/Class-13.md)
 - [Class 14 - Navigation Properties and Routing](Class14/Class-14.md)
 - [Class 15 - ](Class15/Class-15.md)
+- [Class 16 - ](Class16/Class-16.md)
+- [Class 17 - ](Class17/Class-17.md)
+- [Class 18 - Identity ](Class18/Class-18.md)
+- [Class 19 - Roles, Claims and JWT Tokens](Class19/Class-19.md)
