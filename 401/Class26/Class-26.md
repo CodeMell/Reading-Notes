@@ -51,6 +51,65 @@ Remember, MVC enhances application development efficiency, separation of concern
 
 [Tag Helpers](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/intro?view=aspnetcore-2.1)
 
+# Tag Helpers in ASP.NET Core
+
+Tag Helpers in ASP.NET Core allow server-side code to generate and render HTML elements in Razor files. They provide an HTML-friendly development experience and reduce the need for explicit transitions between HTML and C#.
+
+## What are Tag Helpers?
+
+Tag Helpers enable server-side code to create and render HTML elements. They offer an alternative to HTML Helpers and attach to HTML elements in Razor views. They're authored in C# and target HTML elements based on element name, attribute name, or parent tag. Unlike HTML Helpers, Tag Helpers don't replace HTML tags entirely, and both approaches can be used together.
+
+## Benefits of Tag Helpers
+
+1. **HTML-Friendly Development**:
+   - Tag Helper syntax closely resembles standard HTML, making it familiar for front-end designers.
+   - HTML/CSS/JavaScript experts can work with Razor views without learning extensive C# syntax.
+
+2. **Rich IntelliSense Environment**:
+   - Tag Helpers provide a more intuitive development experience than HTML Helpers.
+   - IntelliSense support makes it easy to create HTML and Razor markup, enhancing productivity.
+
+3. **Robustness and Maintainability**:
+   - Tag Helpers offer automated functionality that improves code reliability.
+   - Built-in Tag Helpers like ImageTagHelper automatically handle tasks such as versioning images.
+
+4. **Server-Side Enhancement**:
+   - Tag Helpers enhance client experiences by generating dynamic content on the server.
+   - For instance, ImageTagHelper ensures clients receive up-to-date images through automatic versioning.
+
+## Managing Tag Helper Scope
+
+- **@addTagHelper**: This directive makes Tag Helpers available to views.
+  - Wildcard syntax ("*") imports all Tag Helpers from a specified assembly.
+  - Scoped Tag Helpers can be introduced through specific view files for fine-grained control.
+
+- **@removeTagHelper**: Removes previously added Tag Helpers from views.
+  - Works similarly to `@addTagHelper`, but removes the specified Tag Helpers.
+  - Can be used to limit the scope of Tag Helpers in specific folders or views.
+
+- **@tagHelperPrefix**: Sets a tag prefix to make Tag Helper usage explicit.
+  - Tag Helpers with the specified prefix are enabled for elements using that prefix.
+  - Provides control over which elements are affected by Tag Helpers.
+
+## Self-Closing Tag Helpers
+
+- Some Tag Helpers can be self-closing, while others are not designed for it.
+- Using a non-self-closing Tag Helper as self-closing can lead to suppressed output.
+- Self-closing a Tag Helper results in a self-closing tag in the rendered output.
+
+## Limitations and Differences
+
+- Tag Helpers don't support C# code within attributes or tag declarations.
+- Tag Helper syntax provides cleaner and more readable markup compared to HTML Helpers.
+- Tag Helpers are distinct from ASP.NET Web Server Controls with different lifecycles and scopes.
+
+## Conclusion
+
+Tag Helpers in ASP.NET Core offer an HTML-friendly way to generate and render HTML elements using server-side code. They provide benefits such as a more intuitive development experience, automated functionality, and improved code maintainability. While they don't replace HTML Helpers or Web Server Controls, they offer a valuable addition to the toolkit for creating robust and dynamic web applications.
+
+For more detailed information and examples, refer to the original article.
+
+
 [Bootstrap](https://getbootstrap.com/)
 
 [1 Hour tutorial Bootstrap](https://scrimba.com/g/gbootstrap4)
